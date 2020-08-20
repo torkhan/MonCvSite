@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e3fac13-abf9-44fe-b1ab-8e1e6be9771b" name="Default Changelist" comment="" />
+    <list default="true" id="1e3fac13-abf9-44fe-b1ab-8e1e6be9771b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ma nouvelle carrière.html" beforeDir="false" afterPath="$PROJECT_DIR$/ma nouvelle carrière.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mon ancienne carrière.html" beforeDir="false" afterPath="$PROJECT_DIR$/mon ancienne carrière.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Réalisations.html" beforeDir="false" afterPath="$PROJECT_DIR$/réalisations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gJFPubyN2smwvnAewpOduUc59u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,9 +39,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../alertEmailsCedric/public/js/accept.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Torkhan\Documents\GitHub\MonCvSite" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,6 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597824767533</updated>
       <workItem from="1597824768582" duration="2774000" />
+      <workItem from="1597906091998" duration="7034000" />
+      <workItem from="1597913670161" duration="45000" />
     </task>
     <servers />
   </component>
@@ -48,6 +66,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="687" y="235" key="FileChooserDialogImpl" timestamp="1597908974058">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="687" y="235" key="FileChooserDialogImpl/0.0.1920.1080/1920.21.1050.1680@0.0.1920.1080" timestamp="1597908974058" />
     <state x="336" y="97" key="SettingsEditor" timestamp="1597824773954">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
