@@ -4,31 +4,46 @@ ul{
 
 .logo{
     width: 14%;
-    }
-.logo2{
-    width: 10%;
-    margin-left: 15%;
+    padding: 5px;
 }
-.logo3{
-    width: 13%;
-    margin-left: 14%;
-}
+
+
 .techno{
     font-size: 25px;
-    padding-left:15px;
+
     border-bottom: 2px solid #fff;
     border-right: 1px solid #fff;
     color:#fff;
     background-image:linear-gradient(#9dbee9, #0b0f37);
+    max-width: 100%;
 }
-.techno2{
-    font-size: 20px;
-}
+
 a span{
     display: none;
+    max-height: 100%;
+    transition-property: max-height;
+    transition-duration: 2s;
+
+
+}
+.fluid{
+    max-width: 100%;
+    padding: 5px;
+    height: 100%;
+    transition-property: max-height;
+    transition-duration: 2s;
+
+}
+.aa{
+    padding-bottom: 38px;
+    padding-top: 28px;
+    color: white;
 }
 a:hover span{
     display:block;
+    
+    max-height: 100%;
+    max-width: 100%;
 
     z-index: 3;
     top: -155px;
@@ -38,6 +53,8 @@ a:hover span{
 
     width: 70%;
 }
+
+
 
 
 
