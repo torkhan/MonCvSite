@@ -18,20 +18,14 @@ ul{
     max-width: 100%;
 }
 
-a span{
-    display: none;
-    max-height: 100%;
-    transition-property: max-height;
-    transition-duration: 2s;
 
-
-}
 .fluid{
     max-width: 100%;
     padding: 5px;
-    height: 100%;
-    transition-property: max-height;
-    transition-duration: 2s;
+    max-height: 0;
+    transition: 1s max-height, 1.5s opacity 0.3s;
+    opacity: 0;
+
 
 }
 .aa{
@@ -39,15 +33,9 @@ a span{
     padding-top: 28px;
     color: white;
 }
-a:hover span{
-    display:block;
-    
+a:hover .fluid{
     max-height: 100%;
-    max-width: 100%;
-
-    z-index: 3;
-    top: -155px;
-    left: -50px;
+    opacity: 1;
 }
 .diplome{
 
