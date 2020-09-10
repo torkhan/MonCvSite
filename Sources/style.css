@@ -1,0 +1,91 @@
+ul{
+    list-style: none;
+}
+
+.logo{
+    width: 14%;
+    padding: 5px;
+}
+
+
+.techno{
+    font-size: 25px;
+
+    border-bottom: 2px solid #fff;
+    border-right: 1px solid #fff;
+    color:#fff;
+    background-image:linear-gradient(#9dbee9, #0b0f37);
+    max-width: 100%;
+}
+
+
+.fluid{
+
+    padding: 5px;
+    max-height: 0;
+    transition: 1s max-height, 1.5s opacity 0.3s;
+    opacity: 0;
+    width: 100%;
+
+
+}
+.aa{
+    padding-bottom: 38px;
+    padding-top: 28px;
+    color: white;
+}
+a:hover .fluid{
+    max-height: 100%;
+    width: 100%;
+    opacity: 1;
+}
+
+.fluid:hover{
+    transform: scale(1.3);
+}
+.diplome{
+
+    width: 70%;
+}
+.list-unstyled2{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.item{
+    margin-bottom: 5px;
+}
+.video{
+    width: 100%;
+    height: 100%;
+}
+iframe{
+    width: 560px;
+    height: 315px;
+}
+
+/*réalisations*/
+#réa{
+
+}
+#vid{
+    height: 100%;
+    border-radius: 0;
+
+}
+.card{
+
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+    box-shadow: 0px 3px 3px black ;
+
+}
+.card-img-top{
+    border-radius:180px;
+
+}
+
+
+
+
+
+
