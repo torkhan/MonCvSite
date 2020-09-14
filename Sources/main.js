@@ -1,7 +1,7 @@
 
 /*$(document).ready(function() {
     let t = 200;
-    $(".card").hide();
+    $("#test1").hide();
     $('.card').each( function(i){
         let $this = $(this);
 
@@ -18,4 +18,15 @@
     });
 });*/
 
+$("#test1").hide();
+$("#test2").hide();
+$("#test3").hide();
+$("#test4").hide();
+$(document).ready(function(){
+
+        $("#test1").fadeIn(4000);
+    $("#test2").fadeIn(6000);
+    $("#test3").fadeIn(8000);
+    $("#test4").fadeIn(10000);
+        });
 
