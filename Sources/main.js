@@ -24,9 +24,9 @@ $("#test3").hide();
 $("#test4").hide();
 $(document).ready(function(){
 
-        $("#test1").fadeIn(4000);
+    $("#test1").fadeIn(4000);
     $("#test2").fadeIn(6000);
-    $("#test3").fadeIn(8000);
-    $("#test4").fadeIn(10000);
+    $("#test3").fadeIn(7000);
+    $("#test4").fadeIn(8000);
         });
 
